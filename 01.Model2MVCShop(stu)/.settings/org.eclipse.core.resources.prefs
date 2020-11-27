@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/layout/left.jsp=UTF-8
+encoding//WebContent/product/listProduct.jsp=UTF-8
+encoding//WebContent/purchase/addPurchaseView.jsp=UTF-8
+encoding//src/com/model2/mvc/view/product/UpdateProductAction.java=UTF-8
+encoding//src/com/model2/mvc/view/product/UpdateProductViewAction.java=UTF-8
