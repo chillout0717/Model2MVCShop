@@ -26,14 +26,9 @@ public class GetProductAction extends Action {
 		
 		request.setAttribute("menu", menu);
 		
-		Cookie cookie = new Cookie(prodNo, prodNo);
-		
-		
-		if (menu != null && menu.equals("manage")) { 
-			return "forward:/updateProductView.do?prodNo="+prodNo+"&menu="+menu+"";	
-		}
+	
 		
 		return "forward:/product/getProduct.jsp";
 	}
 
-}
+	}

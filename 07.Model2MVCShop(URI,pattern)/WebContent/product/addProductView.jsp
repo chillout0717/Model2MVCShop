@@ -10,7 +10,7 @@
 </script>
 
 <script type="text/javascript">
-<!--
+
 function fncAddProduct(){
 	
  	var name = document.detailForm.prodName.value;
@@ -39,7 +39,8 @@ function fncAddProduct(){
 function resetData(){
 	document.detailForm.reset();
 }
--->
+
+
 </script>
 </head>
 
